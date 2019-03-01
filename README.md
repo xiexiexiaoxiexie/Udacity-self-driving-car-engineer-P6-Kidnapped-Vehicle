@@ -1,3 +1,10 @@
+扩展阅读：
+1.粒子滤波器standford：
+http://robots.stanford.edu/papers/thrun.pf-in-robotics-uai02.pdf
+
+项目概述：
+运用C++构建一个粒子滤波器并将其与实际地图结合确定车辆的精确位置
+
 # Overview
 This repository contains all the code needed to complete the final project for the Localization course in Udacity's Self-Driving Car Nanodegree.
 
