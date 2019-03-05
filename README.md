@@ -1,6 +1,14 @@
 扩展阅读：
 1.粒子滤波器standford：
 http://robots.stanford.edu/papers/thrun.pf-in-robotics-uai02.pdf
+2.Kinematics of a Robot Car (Bicycle Model):
+https://nabinsharma.wordpress.com/2014/01/02/kinematics-of-a-robot-bicycle-model/
+3.KINEMATICS MODELS OF MOBILE ROBOTS:
+http://users.isr.ist.utl.pt/~mir/cadeiras/robmovel/Kinematics.pdf
+4.slam:
+https://arxiv.org/abs/1606.05830
+5.Navigating the Landscape for Real-time Localisation and Mapping for Robotics and Virtual and Augmented Reality
+https://arxiv.org/abs/1808.06352
 
 项目概述：
 运用C++构建一个粒子滤波器并将其与实际地图结合确定车辆的精确位置
